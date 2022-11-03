@@ -3,12 +3,16 @@ using namespace std;
 
 int main(){
 
+//  *****To print all numbers from 1 to 100 which are not divisible by 3*****
+
     // for(int i=0; i <= 100; i++){
     //     if(i%3==0){
     //         continue;
     //     }
     //     cout<<i<<endl;
     // }
+
+//  *****To check if a number if prime or not*****
 
     // int n;
     // cin>>n;
@@ -23,6 +27,8 @@ int main(){
     // if(i==n){
     //     cout<<"Prime number"<<endl;
     // }
+
+// *****To print all prime numbers between two numbers a and b*****
 
     int a,b;
     cin>>a>>b;
